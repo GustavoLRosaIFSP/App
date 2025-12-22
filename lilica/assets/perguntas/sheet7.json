@@ -1,0 +1,254 @@
+[
+  {
+    "numero": 1,
+    "sentido": "Horizontal",
+    "pergunta": "Como alguns investidores de startups",
+    "resposta": "Anjos"
+  },
+  {
+    "numero": 6,
+    "sentido": "Horizontal",
+    "pergunta": "Ocasionou",
+    "resposta": "Gerou"
+  },
+  {
+    "numero": 11,
+    "sentido": "Horizontal",
+    "pergunta": "___ Ocidental: território ao sul do Marrocos",
+    "resposta": "Saara"
+  },
+  {
+    "numero": 12,
+    "sentido": "Horizontal",
+    "pergunta": "Opção à Adidas",
+    "resposta": "Asics"
+  },
+  {
+    "numero": 13,
+    "sentido": "Horizontal",
+    "pergunta": "Resina usada em joalheria",
+    "resposta": "Ambar"
+  },
+  {
+    "numero": 14,
+    "sentido": "Horizontal",
+    "pergunta": "Personagem mitológico que morreu ao ignorar um conselho do pai",
+    "resposta": "Icaro"
+  },
+  {
+    "numero": 15,
+    "sentido": "Horizontal",
+    "pergunta": "Quem pensa que eu __?'",
+    "resposta": "Sou"
+  },
+  {
+    "numero": 16,
+    "sentido": "Horizontal",
+    "pergunta": "Como os elefantes, se comparados às formigas",
+    "resposta": "Enormes"
+  },
+  {
+    "numero": 18,
+    "sentido": "Horizontal",
+    "pergunta": "Grite como uma fera",
+    "resposta": "Urre"
+  },
+  {
+    "numero": 20,
+    "sentido": "Horizontal",
+    "pergunta": "Cerveja de alta fermentação",
+    "resposta": "Ale"
+  },
+  {
+    "numero": 21,
+    "sentido": "Horizontal",
+    "pergunta": "Passando muita raiva",
+    "resposta": "Louco da vida"
+  },
+  {
+    "numero": 26,
+    "sentido": "Horizontal",
+    "pergunta": "Peça ao senhor",
+    "resposta": "Ore"
+  },
+  {
+    "numero": 27,
+    "sentido": "Horizontal",
+    "pergunta": "Foi adiado em 2020 durante a pandemia",
+    "resposta": "Enem"
+  },
+  {
+    "numero": 28,
+    "sentido": "Horizontal",
+    "pergunta": "Filme de sucesso relançado em 3D, em 2012",
+    "resposta": "Titanic"
+  },
+  {
+    "numero": 32,
+    "sentido": "Horizontal",
+    "pergunta": "Org. ligada à Fóruma 1",
+    "resposta": "Fia"
+  },
+  {
+    "numero": 33,
+    "sentido": "Horizontal",
+    "pergunta": "Seca",
+    "resposta": "Arida"
+  },
+  {
+    "numero": 34,
+    "sentido": "Horizontal",
+    "pergunta": "Um dos dois países da ilha de São Domingos",
+    "resposta": "Haiti"
+  },
+  {
+    "numero": 36,
+    "sentido": "Horizontal",
+    "pergunta": "Madrepérola",
+    "resposta": "Nacar"
+  },
+  {
+    "numero": 37,
+    "sentido": "Horizontal",
+    "pergunta": "País banhado pelo Mar Vermelho",
+    "resposta": "Iemen"
+  },
+  {
+    "numero": 38,
+    "sentido": "Horizontal",
+    "pergunta": "Lima para desbastar madeira",
+    "resposta": "Grosa"
+  },
+  {
+    "numero": 39,
+    "sentido": "Horizontal",
+    "pergunta": "Uma parte do berimbau",
+    "resposta": "Arame"
+  },
+  {
+    "numero": 1,
+    "sentido": "Vertical",
+    "pergunta": "Bairro residencial de Brasília",
+    "resposta": "Asa Sul"
+  },
+  {
+    "numero": 2,
+    "sentido": "Vertical",
+    "pergunta": "Relação anterior ao casamento",
+    "resposta": "Namoro"
+  },
+  {
+    "numero": 3,
+    "sentido": "Vertical",
+    "pergunta": "Palácio do __: casa do vice-presidente do Brasil",
+    "resposta": "Jaburu"
+  },
+  {
+    "numero": 4,
+    "sentido": "Vertical",
+    "pergunta": "Rita__, cantora de 'Anywhere' e 'For You'",
+    "resposta": "Ora"
+  },
+  {
+    "numero": 5,
+    "sentido": "Vertical",
+    "pergunta": "Convalesça",
+    "resposta": "Sare"
+  },
+  {
+    "numero": 6,
+    "sentido": "Vertical",
+    "pergunta": "Armação tubular montada em carros de corrida",
+    "resposta": "Gaiola"
+  },
+  {
+    "numero": 7,
+    "sentido": "Vertical",
+    "pergunta": "Colabora com textos para um jornal",
+    "resposta": "Escreve"
+  },
+  {
+    "numero": 8,
+    "sentido": "Vertical",
+    "pergunta": "Não mantinham a seriedade",
+    "resposta": "Riam"
+  },
+  {
+    "numero": 9,
+    "sentido": "Vertical",
+    "pergunta": "Tipo de terra fina com argila",
+    "resposta": "Ocre"
+  },
+  {
+    "numero": 10,
+    "sentido": "Vertical",
+    "pergunta": "Aplicações",
+    "resposta": "Usos"
+  },
+  {
+    "numero": 17,
+    "sentido": "Vertical",
+    "pergunta": "Realizei o crawl",
+    "resposta": "Nadei"
+  },
+  {
+    "numero": 19,
+    "sentido": "Vertical",
+    "pergunta": "Ditas novamente, de certa forma",
+    "resposta": "Ecoadas"
+  },
+  {
+    "numero": 22,
+    "sentido": "Vertical",
+    "pergunta": "Irá decorar",
+    "resposta": "Ornara"
+  },
+  {
+    "numero": 23,
+    "sentido": "Vertical",
+    "pergunta": "Diminuta",
+    "resposta": "Infima"
+  },
+  {
+    "numero": 24,
+    "sentido": "Vertical",
+    "pergunta": "Estendam-se na cama",
+    "resposta": "Deitem"
+  },
+  {
+    "numero": 25,
+    "sentido": "Vertical",
+    "pergunta": "Diminua(fig.)",
+    "resposta": "Amaine"
+  },
+  {
+    "numero": 28,
+    "sentido": "Vertical",
+    "pergunta": "Produto com sabor azul espacial, em 2025",
+    "resposta": "Tang"
+  },
+  {
+    "numero": 29,
+    "sentido": "Vertical",
+    "pergunta": "Enfurecer(-se)",
+    "resposta": "Irar"
+  },
+  {
+    "numero": 30,
+    "sentido": "Vertical",
+    "pergunta": "Quando repetido, o nome de uma ave",
+    "resposta": "Tico"
+  },
+  {
+    "numero": 31,
+    "sentido": "Vertical",
+    "pergunta": "Óleo de __: tempero de saladas",
+    "resposta": "Chia"
+  },
+  {
+    "numero": 35,
+    "sentido": "Vertical",
+    "pergunta": "Prefixo que dá a ideia de ar ou atmosfera",
+    "resposta": "Era"
+  }
+]

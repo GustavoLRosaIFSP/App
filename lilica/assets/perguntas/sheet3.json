@@ -1,0 +1,230 @@
+[
+  {
+    "numero": 1,
+    "sentido": "Horizontal",
+    "pergunta": "Orlnado ___: time de basquete da Flórida",
+    "resposta": "Magic"
+  },
+  {
+    "numero": 6,
+    "sentido": "Horizontal",
+    "pergunta": "Irmã da Evie e do George",
+    "resposta": "Peppa"
+  },
+  {
+    "numero": 11,
+    "sentido": "Horizontal",
+    "pergunta": "Fica afundada na lama",
+    "resposta": "Atola"
+  },
+  {
+    "numero": 12,
+    "sentido": "Horizontal",
+    "pergunta": "O que o procrastinador gosta de fazer com suas obrigações",
+    "resposta": "Adiar"
+  },
+  {
+    "numero": 13,
+    "sentido": "Horizontal",
+    "pergunta": "Prato que pode conter ômega-3",
+    "resposta": "Sushi"
+  },
+  {
+    "numero": 14,
+    "sentido": "Horizontal",
+    "pergunta": "Iguaria assada com nome de origem francesa",
+    "resposta": "Sufle"
+  },
+  {
+    "numero": 15,
+    "sentido": "Horizontal",
+    "pergunta": "Golpes de animais",
+    "resposta": "Patadas"
+  },
+  {
+    "numero": 17,
+    "sentido": "Horizontal",
+    "pergunta": "Um dos remédios mais usados(abrev.)",
+    "resposta": "AAS"
+  },
+  {
+    "numero": 18,
+    "sentido": "Horizontal",
+    "pergunta": "Não são contadas pela pessoa sincera",
+    "resposta": "Lorotas"
+  },
+  {
+    "numero": 20,
+    "sentido": "Horizontal",
+    "pergunta": "Perderam gordura corporal(pop.)",
+    "resposta": "Secaram"
+  },
+  {
+    "numero": 22,
+    "sentido": "Horizontal",
+    "pergunta": "Município paulista com nome de mulher",
+    "resposta": "Marilia"
+  },
+  {
+    "numero": 24,
+    "sentido": "Horizontal",
+    "pergunta": "Sua primeira novela foi 'Destino'",
+    "resposta": "SBT"
+  },
+  {
+    "numero": 27,
+    "sentido": "Horizontal",
+    "pergunta": "Dava o troco",
+    "resposta": "Vingava"
+  },
+  {
+    "numero": 29,
+    "sentido": "Horizontal",
+    "pergunta": "Cita como justificativa",
+    "resposta": "Alega"
+  },
+  {
+    "numero": 31,
+    "sentido": "Horizontal",
+    "pergunta": "Carro da GWM",
+    "resposta": "Haval"
+  },
+  {
+    "numero": 32,
+    "sentido": "Horizontal",
+    "pergunta": "Mole'",
+    "resposta": "Facil"
+  },
+  {
+    "numero": 33,
+    "sentido": "Horizontal",
+    "pergunta": "Canção de Caetano Veloso",
+    "resposta": "Odara"
+  },
+  {
+    "numero": 34,
+    "sentido": "Horizontal",
+    "pergunta": "Marido de Desdêmona, na literatura",
+    "resposta": "Otelo"
+  },
+  {
+    "numero": 35,
+    "sentido": "Horizontal",
+    "pergunta": "Agregar",
+    "resposta": "Somar"
+  },
+  {
+    "numero": 1,
+    "sentido": "Vertical",
+    "pergunta": "Museu paulista roubado em 2007",
+    "resposta": "Masp"
+  },
+  {
+    "numero": 2,
+    "sentido": "Vertical",
+    "pergunta": "Presente",
+    "resposta": "Atual"
+  },
+  {
+    "numero": 3,
+    "sentido": "Vertical",
+    "pergunta": "Refletem-se nas escolhas de cada um",
+    "resposta": "Gostos"
+  },
+  {
+    "numero": 4,
+    "sentido": "Vertical",
+    "pergunta": "Afastarem de todos",
+    "resposta": "Ilharem"
+  },
+  {
+    "numero": 5,
+    "sentido": "Vertical",
+    "pergunta": "Quebrei a cara",
+    "resposta": "Cai do cavalo"
+  },
+  {
+    "numero": 6,
+    "sentido": "Vertical",
+    "pergunta": "Muitos nascem com o dom de cantar",
+    "resposta": "Passarinhos"
+  },
+  {
+    "numero": 7,
+    "sentido": "Vertical",
+    "pergunta": "___ Lobo, cantor de 'Ponteio'",
+    "resposta": "Edu"
+  },
+  {
+    "numero": 8,
+    "sentido": "Vertical",
+    "pergunta": "Para de funcionar",
+    "resposta": "Pifa"
+  },
+  {
+    "numero": 9,
+    "sentido": "Vertical",
+    "pergunta": "Parte dianteira de um quepe",
+    "resposta": "Pala"
+  },
+  {
+    "numero": 10,
+    "sentido": "Vertical",
+    "pergunta": "Deus simbolizado por uma lança",
+    "resposta": "Ares"
+  },
+  {
+    "numero": 16,
+    "sentido": "Vertical",
+    "pergunta": "Uma das pioneiras em jogos eletrônicos",
+    "resposta": "Atari"
+  },
+  {
+    "numero": 19,
+    "sentido": "Vertical",
+    "pergunta": "__ Filho: o aeroporto internacional de Porto Alegre",
+    "resposta": "Salgado"
+  },
+  {
+    "numero": 21,
+    "sentido": "Vertical",
+    "pergunta": "Imitivam o gato",
+    "resposta": "Miavam"
+  },
+  {
+    "numero": 23,
+    "sentido": "Vertical",
+    "pergunta": "Cobiçosa, mesquisa",
+    "resposta": "Avara"
+  },
+  {
+    "numero": 24,
+    "sentido": "Vertical",
+    "pergunta": "Desembaraçado",
+    "resposta": "Safo"
+  },
+  {
+    "numero": 25,
+    "sentido": "Vertical",
+    "pergunta": "Caio ___, ator",
+    "resposta": "Blat"
+  },
+  {
+    "numero": 26,
+    "sentido": "Vertical",
+    "pergunta": "Prepara a trama",
+    "resposta": "Tece"
+  },
+  {
+    "numero": 28,
+    "sentido": "Vertical",
+    "pergunta": "Prover(se) de asas",
+    "resposta": "Alar"
+  },
+  {
+    "numero": 30,
+    "sentido": "Vertical",
+    "pergunta": "___ Vicente, poeta português",
+    "resposta": "Gil"
+  }
+]

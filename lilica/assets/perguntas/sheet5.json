@@ -1,0 +1,266 @@
+[
+  {
+    "numero": 1,
+    "sentido": "Horizontal",
+    "pergunta": "Predomina",
+    "resposta": "Impera"
+  },
+  {
+    "numero": 7,
+    "sentido": "Horizontal",
+    "pergunta": "Local de atracação",
+    "resposta": "Cais"
+  },
+  {
+    "numero": 11,
+    "sentido": "Horizontal",
+    "pergunta": "Doce chamado popularmente de torrone(fr.)",
+    "resposta": "Nougat"
+  },
+  {
+    "numero": 12,
+    "sentido": "Horizontal",
+    "pergunta": "Apelido que omite 'ana' ou 'ane'",
+    "resposta": "Adri"
+  },
+  {
+    "numero": 13,
+    "sentido": "Horizontal",
+    "pergunta": "Apertar, dando a volta",
+    "resposta": "Cingit"
+  },
+  {
+    "numero": 14,
+    "sentido": "Horizontal",
+    "pergunta": "Respsotas negativas",
+    "resposta": "Nãos"
+  },
+  {
+    "numero": 15,
+    "sentido": "Horizontal",
+    "pergunta": "É alto na Suíça",
+    "resposta": "IDH"
+  },
+  {
+    "numero": 16,
+    "sentido": "Horizontal",
+    "pergunta": "Uma forma de ver Marte",
+    "resposta": ""
+  },
+  {
+    "numero": 18,
+    "sentido": "Horizontal",
+    "pergunta": "SUV da Volkswagen",
+    "resposta": "A olho nu"
+  },
+  {
+    "numero": 20,
+    "sentido": "Horizontal",
+    "pergunta": "Prefixo com 'lógico' e 'fobia'",
+    "resposta": "Zoo"
+  },
+  {
+    "numero": 21,
+    "sentido": "Horizontal",
+    "pergunta": "Limpa o nariz",
+    "resposta": "Assoa"
+  },
+  {
+    "numero": 23,
+    "sentido": "Horizontal",
+    "pergunta": "Nome verdadeiro do Capitão América",
+    "resposta": "Steve"
+  },
+  {
+    "numero": 27,
+    "sentido": "Horizontal",
+    "pergunta": "MCL dividido por 10",
+    "resposta": "CXV"
+  },
+  {
+    "numero": 29,
+    "sentido": "Horizontal",
+    "pergunta": "São 4 no baralho",
+    "resposta": "Ases"
+  },
+  {
+    "numero": 30,
+    "sentido": "Horizontal",
+    "pergunta": "Nome na capa de 'Ou Isto ou Aquilo'",
+    "resposta": "Cecilia"
+  },
+  {
+    "numero": 34,
+    "sentido": "Horizontal",
+    "pergunta": "Sucesso do AC/DC",
+    "resposta": "TNT"
+  },
+  {
+    "numero": 35,
+    "sentido": "Horizontal",
+    "pergunta": "Fêmea de um mustangue",
+    "resposta": "Egua"
+  },
+  {
+    "numero": 36,
+    "sentido": "Horizontal",
+    "pergunta": "Como a meditação pode ser",
+    "resposta": "Guiada"
+  },
+  {
+    "numero": 38,
+    "sentido": "Horizontal",
+    "pergunta": "Deserto entre a China e a Mongólia",
+    "resposta": "Gobi"
+  },
+  {
+    "numero": 39,
+    "sentido": "Horizontal",
+    "pergunta": "Deixei mais brando(fig.)",
+    "resposta": "Adoceei"
+  },
+  {
+    "numero": 40,
+    "sentido": "Horizontal",
+    "pergunta": "Sem outra companhia",
+    "resposta": "Asos"
+  },
+  {
+    "numero": 41,
+    "sentido": "Horizontal",
+    "pergunta": "Boa parte dos caracteres de uma calculadora",
+    "resposta": "Sinais"
+  },
+  {
+    "numero": 1,
+    "sentido": "Vertical",
+    "pergunta": "Estimula",
+    "resposta": "Incita"
+  },
+  {
+    "numero": 2,
+    "sentido": "Vertical",
+    "pergunta": "Como algumas pimentas são vendidas",
+    "resposta": "Moídas"
+  },
+  {
+    "numero": 3,
+    "sentido": "Vertical",
+    "pergunta": "Cabos de espadas",
+    "resposta": "Punhos"
+  },
+  {
+    "numero": 4,
+    "sentido": "Vertical",
+    "pergunta": "Omelet ingredient",
+    "resposta": "Egg"
+  },
+  {
+    "numero": 5,
+    "sentido": "Vertical",
+    "pergunta": "Linha de fronteira",
+    "resposta": "Raia"
+  },
+  {
+    "numero": 6,
+    "sentido": "Vertical",
+    "pergunta": "Como o anti-humano",
+    "resposta": "Atroz"
+  },
+  {
+    "numero": 7,
+    "sentido": "Vertical",
+    "pergunta": "A mão esquerda",
+    "resposta": "Canhota"
+  },
+  {
+    "numero": 8,
+    "sentido": "Vertical",
+    "pergunta": "Viveu 930 anos, segundo a Bíblia",
+    "resposta": "Adão"
+  },
+  {
+    "numero": 9,
+    "sentido": "Vertical",
+    "pergunta": "Ferro, em inglês",
+    "resposta": "Iron"
+  },
+  {
+    "numero": 10,
+    "sentido": "Vertical",
+    "pergunta": "Sistema do MEC",
+    "resposta": "Sisu"
+  },
+  {
+    "numero": 17,
+    "sentido": "Vertical",
+    "pergunta": "Paso de __ Toros, cidade uruguaia",
+    "resposta": "Los"
+  },
+  {
+    "numero": 19,
+    "sentido": "Vertical",
+    "pergunta": "Como alguns serviços e ciências",
+    "resposta": "Sociais"
+  },
+  {
+    "numero": 22,
+    "sentido": "Vertical",
+    "pergunta": "___ Rose, vocalista do Guns Nª Rises",
+    "resposta": "Axl"
+  },
+  {
+    "numero": 24,
+    "sentido": "Vertical",
+    "pergunta": "Vara para apoiar a planta",
+    "resposta": "Estaca"
+  },
+  {
+    "numero": 25,
+    "sentido": "Vertical",
+    "pergunta": "Impedi de enxergar",
+    "resposta": "Vendei"
+  },
+  {
+    "numero": 26,
+    "sentido": "Vertical",
+    "pergunta": "Pai nosso, que ___ nos Céus...'",
+    "resposta": "Estais"
+  },
+  {
+    "numero": 28,
+    "sentido": "Vertical",
+    "pergunta": "Transmitem esforços às colunas",
+    "resposta": "Vigas"
+  },
+  {
+    "numero": 30,
+    "sentido": "Vertical",
+    "pergunta": "Impede de enxergar",
+    "resposta": "Cega"
+  },
+  {
+    "numero": 31,
+    "sentido": "Vertical",
+    "pergunta": "Podem ser inflados",
+    "resposta": "Egos"
+  },
+  {
+    "numero": 32,
+    "sentido": "Vertical",
+    "pergunta": "8, para 2",
+    "resposta": "Cubo"
+  },
+  {
+    "numero": 33,
+    "sentido": "Vertical",
+    "pergunta": "Empresa do grupo Volkswagen",
+    "resposta": "Audi"
+  },
+  {
+    "numero": 37,
+    "sentido": "Vertical",
+    "pergunta": "Átomo eletricamente carregado",
+    "resposta": "Ion"
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "numero": 1,
+    "sentido": "Horizontal",
+    "pergunta": "Retirar toda a umidade",
+    "resposta": "Dessecar"
+  },
+  {
+    "numero": 9,
+    "sentido": "Horizontal",
+    "pergunta": "Optou por ir a um restaurante",
+    "resposta": "Comeu Fora"
+  },
+  {
+    "numero": 10,
+    "sentido": "Horizontal",
+    "pergunta": "Asssimilei",
+    "resposta": "Compreendi"
+  },
+  {
+    "numero": 11,
+    "sentido": "Horizontal",
+    "pergunta": "Pode fazer alguém aiar",
+    "resposta": "Dor"
+  },
+  {
+    "numero": 12,
+    "sentido": "Horizontal",
+    "pergunta": "Braço, em inglês",
+    "resposta": "Arm"
+  },
+  {
+    "numero": 13,
+    "sentido": "Horizontal",
+    "pergunta": "Domínio de sites estatais",
+    "resposta": "Gov"
+  },
+  {
+    "numero": 14,
+    "sentido": "Horizontal",
+    "pergunta": "Informe com as correções",
+    "resposta": "Errata"
+  },
+  {
+    "numero": 16,
+    "sentido": "Horizontal",
+    "pergunta": "Produzo",
+    "resposta": "Gero"
+  },
+  {
+    "numero": 17,
+    "sentido": "Horizontal",
+    "pergunta": "Emma__, Vencedora do Oscar de melhor atriz de 2017",
+    "resposta": "Stone"
+  },
+  {
+    "numero": 18,
+    "sentido": "Horizontal",
+    "pergunta": "Eram tocados por Quasímodo",
+    "resposta": "Sinos"
+  },
+  {
+    "numero": 19,
+    "sentido": "Horizontal",
+    "pergunta": "Pode ser quebrado por um não-conformista",
+    "resposta": "Tabu"
+  },
+  {
+    "numero": 20,
+    "sentido": "Horizontal",
+    "pergunta": "___ Verde e Brando, escola de samba",
+    "resposta": "Camisa"
+  },
+  {
+    "numero": 21,
+    "sentido": "Horizontal",
+    "pergunta": "Não fico só olhando",
+    "resposta": "Ajo"
+  },
+  {
+    "numero": 22,
+    "sentido": "Horizontal",
+    "pergunta": "O Paraguai não tem acesso a ele",
+    "resposta": "Mar"
+  },
+  {
+    "numero": 23,
+    "sentido": "Horizontal",
+    "pergunta": "Marcelo ___, apresentador",
+    "resposta": "Tas"
+  },
+  {
+    "numero": 24,
+    "sentido": "Horizontal",
+    "pergunta": "Nascidas em Bayeux ou Cabedelo",
+    "resposta": "Paraibanas"
+  },
+  {
+    "numero": 27,
+    "sentido": "Horizontal",
+    "pergunta": "Abrandados",
+    "resposta": "Acalmados"
+  },
+  {
+    "numero": 28,
+    "sentido": "Horizontal",
+    "pergunta": "Doces feitos com banana",
+    "resposta": "Mariolas"
+  },
+  {
+    "numero": 1,
+    "sentido": "Vertical",
+    "pergunta": "Título honorífico de monarcas e nobres",
+    "resposta": "Dom"
+  },
+  {
+    "numero": 2,
+    "sentido": "Vertical",
+    "pergunta": "1x1, por exemplo",
+    "resposta": "Empate"
+  },
+  {
+    "numero": 3,
+    "sentido": "Vertical",
+    "pergunta": "Uma das cidades mais antigas do ES",
+    "resposta": "Serra"
+  },
+  {
+    "numero": 4,
+    "sentido": "Vertical",
+    "pergunta": "Transpirem",
+    "resposta": "Suem"
+  },
+  {
+    "numero": 5,
+    "sentido": "Vertical",
+    "pergunta": "Início da faculdade",
+    "resposta": "Efe"
+  },
+  {
+    "numero": 6,
+    "sentido": "Vertical",
+    "pergunta": "Inatas",
+    "resposta": "Congenitas"
+  },
+  {
+    "numero": 7,
+    "sentido": "Vertical",
+    "pergunta": "Cheias de paixão",
+    "resposta": "Ardorosas"
+  },
+  {
+    "numero": 8,
+    "sentido": "Vertical",
+    "pergunta": "Fulas da vida",
+    "resposta": "Raivosas"
+  },
+  {
+    "numero": 9,
+    "sentido": "Vertical",
+    "pergunta": "Dar robuestez",
+    "resposta": "Corroborar"
+  },
+  {
+    "numero": 10,
+    "sentido": "Vertical",
+    "pergunta": "Dança em voga no fim do século XIX",
+    "resposta": "Cortajaca"
+  },
+  {
+    "numero": 11,
+    "sentido": "Vertical",
+    "pergunta": "Abrem",
+    "resposta": "Destapam"
+  },
+  {
+    "numero": 15,
+    "sentido": "Vertical",
+    "pergunta": "Ave predadora de gafanhotos e aranhas",
+    "resposta": "Anu"
+  },
+  {
+    "numero": 16,
+    "sentido": "Vertical",
+    "pergunta": "Bebida à base de cereais",
+    "resposta": "Gim"
+  },
+  {
+    "numero": 18,
+    "sentido": "Vertical",
+    "pergunta": "Curada",
+    "resposta": "Sarada"
+  },
+  {
+    "numero": 20,
+    "sentido": "Vertical",
+    "pergunta": "Prova ___: comprovação absoluta",
+    "resposta": "Cabal"
+  },
+  {
+    "numero": 22,
+    "sentido": "Vertical",
+    "pergunta": "Afago",
+    "resposta": "Mimo"
+  },
+  {
+    "numero": 25,
+    "sentido": "Vertical",
+    "pergunta": "Filme de 2001 sobre um lutador de boxe",
+    "resposta": "Ali"
+  },
+  {
+    "numero": 26,
+    "sentido": "Vertical",
+    "pergunta": "Aselha, falcaça e catau",
+    "resposta": "Nos"
+  }  
+]
