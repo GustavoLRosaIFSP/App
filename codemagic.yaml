@@ -25,4 +25,4 @@ workflows:
     publishing:
       email:
         recipients:
-          -tikuminacama2@gmail.com
+          - seu-email@gmail.com
