@@ -5,7 +5,7 @@ workflows:
       groups:
         - app_store_credentials # Para distribuição
       vars:
-        BUNDLE_ID: "com.seunome.app" # Altere!
+        BUNDLE_ID: "lilica.app" # Altere!
         XCODE_PROJECT: "Runner.xcworkspace"
         XCODE_SCHEME: "Runner"
         FLUTTER_VERSION: "stable" # ou versão específica
@@ -25,4 +25,4 @@ workflows:
     publishing:
       email:
         recipients:
-          - seu-email@gmail.com
+          -tikuminacama2@gmail.com
