@@ -1,28 +1,54 @@
+# codemagic.yaml
 workflows:
   ios-workflow:
-    name: iOS Build
+    name: Build iOS Lilica
     environment:
-      groups:
-        - app_store_credentials # Para distribuição
-      vars:
-        BUNDLE_ID: "lilica.app" # Altere!
-        XCODE_PROJECT: "Runner.xcworkspace"
-        XCODE_SCHEME: "Runner"
-        FLUTTER_VERSION: "stable" # ou versão específica
+      name: default
+      flutter: "3.38.4"  # OU "3.25.0" se 3.38.4 não existir
       xcode: latest
       cocoapods: default
+      
+    triggering:
+      events:
+        - push
+      branch_patterns:
+        - pattern: 'main'
+          include: true
+          
     scripts:
-      - name: Get Flutter
+      - name: Setup Flutter
         script: |
-          flutter config --no-analytics
-          flutter packages pub get
+          # Verifica e instala versão correta
+          if ! flutter --version | grep -q "3.38.4"; then
+            echo "Instalando Flutter 3.38.4..."
+            flutter channel stable
+            flutter upgrade --force
+          fi
+          flutter --version
+          
+      - name: Get Flutter packages
+        script: |
+          flutter clean
+          flutter pub get
+          
+      - name: Install iOS dependencies
+        script: |
+          cd ios
+          pod install --repo-update
+          cd ..
+          
       - name: Build iOS
         script: |
           flutter build ios --release --no-codesign
+          
     artifacts:
       - build/ios/ipa/*.ipa
       - build/ios/ios/Runner.app
+      
     publishing:
       email:
         recipients:
           - seu-email@gmail.com
+        notify:
+          success: true
+          failure: true
