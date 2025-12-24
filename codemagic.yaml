@@ -3,7 +3,6 @@ workflows:
   ios-workflow:
     name: Build iOS Lilica
     environment:
-      name: default
       flutter: "3.38.4"  # OU "3.25.0" se 3.38.4 não existir
       xcode: latest
       cocoapods: default
@@ -41,7 +40,7 @@ workflows:
         script: |
           flutter build ios --release --no-codesign
           
-    artifacts:
+    artifacts:  
       - build/ios/ipa/*.ipa
       - build/ios/ios/Runner.app
       
