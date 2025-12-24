@@ -1,0 +1,28 @@
+workflows:
+  ios-workflow:
+    name: iOS Build
+    environment:
+      groups:
+        - app_store_credentials # Para distribuição
+      vars:
+        BUNDLE_ID: "com.seunome.app" # Altere!
+        XCODE_PROJECT: "Runner.xcworkspace"
+        XCODE_SCHEME: "Runner"
+        FLUTTER_VERSION: "stable" # ou versão específica
+      xcode: latest
+      cocoapods: default
+    scripts:
+      - name: Get Flutter
+        script: |
+          flutter config --no-analytics
+          flutter packages pub get
+      - name: Build iOS
+        script: |
+          flutter build ios --release --no-codesign
+    artifacts:
+      - build/ios/ipa/*.ipa
+      - build/ios/ios/Runner.app
+    publishing:
+      email:
+        recipients:
+          - seu-email@gmail.com
